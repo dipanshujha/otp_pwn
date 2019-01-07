@@ -1,6 +1,7 @@
 # OTP PWN
 
-OTP PWN can assist in the exploitation of the one-time pad (OTP) key reuse vulnerability. 
+OTP PWN can assist in the exploitation of the one-time pad (OTP) key reuse vulnerability. \
+It can also be used to decrypt the AES encrypted files for fixed block sizes.
 
 ## Usage
 
